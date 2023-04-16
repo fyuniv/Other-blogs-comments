@@ -1,3 +1,3 @@
-Reader comments for https://blog.yfei.page as GitHub issues.
+Reader comments for blog posts at https://blog.yfei.page.
 
-Powered by [utterances](https://utteranc.es/).
+Powered by [giscus](https://giscus.app/).
